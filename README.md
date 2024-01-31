@@ -1,4 +1,4 @@
 ### SistemaBancario
-##Código resposta ao desafio de código da DIO 
+## Código resposta ao desafio de código da DIO 
 
-#Objetivo desse código é criar um simples sistema bancario que efetua depositos, saques e que guarde todas as informações no seu extrato
+# Atualizado o corpo do codigo com funções, e modificado as funções de criação de usuario.
